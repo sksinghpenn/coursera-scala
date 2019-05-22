@@ -1,0 +1,1 @@
+List("Every","student","likes","Scala").groupBy((element:String) => element.length)
